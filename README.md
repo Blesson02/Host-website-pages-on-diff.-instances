@@ -75,3 +75,17 @@ vi index.html
 </html>
 ```
 ![image](https://github.com/Blesson02/Host-website-pages-on-diff.-instances/assets/108075329/477124f9-d3e0-4b10-910f-3e1456738f74)
+
+## Step 2 : Create Target groups
+
+![image](https://github.com/Blesson02/Host-website-pages-on-diff.-instances/assets/108075329/3df94879-328e-4455-b82e-4e5cf6cb178b)
+
+
+## Step 3 : Create ALB
+
+![image](https://github.com/Blesson02/Host-website-pages-on-diff.-instances/assets/108075329/24266d6c-c3fb-4d47-955e-56856e22da7f)
+
+## Step 4 : Create rules 
+
+![image](https://github.com/Blesson02/Host-website-pages-on-diff.-instances/assets/108075329/f7e97c9c-e6c8-4287-a0f6-bd6a7888d2ab)
+

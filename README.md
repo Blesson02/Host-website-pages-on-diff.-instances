@@ -4,7 +4,7 @@ Host multiple pages of a single website on different ec2 instances with the help
 # Step 1:
  For demonstrating this excersize, Create 3 instances and install apache in it.
 
- # Fot Instance 1 : create an index page on its root folder
+ # For Instance 1 : create an index page on its root folder
 
  cd /var/www/html
 

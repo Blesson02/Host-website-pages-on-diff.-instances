@@ -30,10 +30,10 @@ Host multiple pages of a single website on different ec2 instances with the help
 ![image](https://github.com/Blesson02/Host-website-pages-on-diff.-instances/assets/108075329/a434a036-f0a9-4fe5-b52a-0f3d67dff0e8)
 
 
- # For Instance 2 : create an html page on /contact folder
+ # For Instance 2 : create an html page on /contacts folder
 ```
 cd /var/www/html/
-mkdir images ; cd images
+mkdir contacts ; cd contacts
 vi index.html
 ```
 ```
@@ -56,7 +56,7 @@ vi index.html
  # For Instance 3 : create an html page on /services folder
 ```
 cd /var/www/html/
-mkdir images ; cd images
+mkdir services ; cd services
 ```
 ```
 vi index.html

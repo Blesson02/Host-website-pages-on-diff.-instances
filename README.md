@@ -7,9 +7,9 @@ Host multiple pages of a single website on different ec2 instances with the help
  # For Instance 1 : create an index page on its root folder
 
  cd /var/www/html
-
- vi index.html
 ```
+ vi index.html
+
 <html>
 <head>
 <title>New Website</title>
@@ -26,12 +26,16 @@ Host multiple pages of a single website on different ec2 instances with the help
 
 </html>
 ```
- # For Instance 2 : create an html page on /contact folder
 
+![image](https://github.com/Blesson02/Host-website-pages-on-diff.-instances/assets/108075329/a434a036-f0a9-4fe5-b52a-0f3d67dff0e8)
+
+
+ # For Instance 2 : create an html page on /contact folder
+```
 cd /var/www/html/
 mkdir images ; cd images
 vi index.html
-
+```
 ```
 <html>
 <head>
@@ -46,14 +50,17 @@ vi index.html
 </body>
 </html>
 ```
+![image](https://github.com/Blesson02/Host-website-pages-on-diff.-instances/assets/108075329/46e7a388-5bf6-492b-a871-9d2e3a7e6a9b)
+
 
  # For Instance 3 : create an html page on /services folder
-
+```
 cd /var/www/html/
 mkdir images ; cd images
+```
+```
 vi index.html
 
-```
 <html>
 <head>
 <title>New Website</title>
@@ -67,3 +74,4 @@ vi index.html
 </body>
 </html>
 ```
+![image](https://github.com/Blesson02/Host-website-pages-on-diff.-instances/assets/108075329/477124f9-d3e0-4b10-910f-3e1456738f74)

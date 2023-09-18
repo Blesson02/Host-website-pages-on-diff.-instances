@@ -26,3 +26,23 @@ Host multiple pages of a single website on different ec2 instances with the help
 
 </html>
 ```
+ # For Instance 2 : create an index page on /images folder
+
+cd /var/www/html/
+mkdir images ; cd images
+vi index.html
+
+```
+<html>
+<head>
+<title>New Website</title>
+</head>
+
+<body>
+<h1><center>My website</center></h1>
+
+<center><a href="/images/">images</a></center>
+
+</body>
+</html>
+```

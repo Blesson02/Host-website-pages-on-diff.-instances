@@ -10,7 +10,7 @@ Host multiple pages of a single website on different ec2 instances with the help
 
  vi index.html
 ```
- <html>
+<html>
 <head>
 <title>New Website</title>
 </head>

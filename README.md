@@ -26,7 +26,7 @@ Host multiple pages of a single website on different ec2 instances with the help
 
 </html>
 ```
- # For Instance 2 : create an index page on /images folder
+ # For Instance 2 : create an html page on /images folder
 
 cd /var/www/html/
 mkdir images ; cd images

@@ -85,7 +85,9 @@ vi index.html
 
 ![image](https://github.com/Blesson02/Host-website-pages-on-diff.-instances/assets/108075329/24266d6c-c3fb-4d47-955e-56856e22da7f)
 
-## Step 4 : Create rules 
+## Step 4 : Create Listener rules 
 
 ![image](https://github.com/Blesson02/Host-website-pages-on-diff.-instances/assets/108075329/f7e97c9c-e6c8-4287-a0f6-bd6a7888d2ab)
+
+
 

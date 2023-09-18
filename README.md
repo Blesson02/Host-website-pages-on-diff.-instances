@@ -18,6 +18,7 @@ Host multiple pages of a single website on different ec2 instances with the help
 <body>
 
 <h1><center>My website</center></h1>
+
 <center><a href="/images/">Images</a></center>
 <center><a href="/js/">js</a></center>
 

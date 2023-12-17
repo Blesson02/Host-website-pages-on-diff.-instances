@@ -1,4 +1,4 @@
-# Host-website-pages-on-diff.-instances 
+# Host-website-pages-on-diff.-instances - ALB
 Host multiple pages of a single website on different ec2 instances with the help of Application LB.
 
 # Step 1:
